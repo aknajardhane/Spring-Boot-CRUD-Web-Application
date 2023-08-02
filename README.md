@@ -4,10 +4,11 @@ This repository contains a simple Spring Boot web application that allows users 
 Prerequisites
 Before running this application, make sure you have the following installed on your system:
 
-Java Development Kit (JDK) 8 or higher
-Maven (for building and running the application)
-MySQL (or any other compatible database) for storing weather report data
-Your preferred IDE (e.g., IntelliJ, Eclipse) for development (optional but recommended)
+•	Java Development Kit (JDK) 8 or higher 
+•	Maven (for building and running the application)
+•	MySQL (or any other compatible database) for storing weather report data 
+•	Your preferred IDE (e.g., IntelliJ, Eclipse) for development (optional but recommended)
+
 
 Usage -
 The web application provides a simple interface to manage weather reports. You can perform the following operations:
