@@ -18,5 +18,3 @@ Add a new weather report: Click on the "Add Weather Report" button on the homepa
 Update a weather report: Click on the "Edit" button next to a weather report on the homepage to update its details.
 Delete a weather report: Click on the "Delete" button next to a weather report on the homepage to remove it from the database.
 
-Contributing -
-Contributions to this project are welcome. If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
